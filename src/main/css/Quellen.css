@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    font-size: xxx-large;
+    font-family: Georgia, serif;
+}
+h2{
+    text-align: center;
+}
+h3{
+    margin: 1em auto;
+    width: 1000px;
+    hyphens: auto;
+    font-family: 'Playfair Display', serif;
+
+
+}
+img{
+    width: 80%;
+    height: auto;
+}
+a{
+
+}
+body{
+    background: beige;
+}
+button{
+    border-color: bisque;
+    background-color: bisque;
+}
+dl.a{
+    list-style-type: square;
+}
+footer{
+    text-align: center;
+}
